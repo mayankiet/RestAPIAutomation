@@ -23,4 +23,12 @@ public class ResourceHelper {
                 .post(url);
     }
 
+    public static Response update(String url, String Json){
+
+        return given()
+                .header("Content-Type", "application/json")
+                .when()
+                .body(Json)
+                .put("status", "sold");
+    }
 }
