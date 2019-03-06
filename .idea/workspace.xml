@@ -2,41 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9664a19b-d4ef-4055-b6cc-d65e7e538bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BootCampTask/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BootCampTask/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BootcampProject/src/main/java/Utilities/connectDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BootcampProjectNew/src/main/java/PageLib/AmazonProductDetailsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BootcampProjectNew/src/main/java/Utilities/ReadAndWriteMongoDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QuikrAutomation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builders/CategoryBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builders/CreatePetRequestBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builders/TagsBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/request/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/request/CreatePetRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/request/Tags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/response/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/response/CreatePetResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/response/Tags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/RequestHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/ResourceHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/ResponseHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/testing/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/testing/DeletePetInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/testing/EnhancingGetPetInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/testing/GetPetInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/testing/PostRequestAndGetValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/testing/PostRequestAndResponseValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/testing/PostRequestWithRequestResponseValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/testing/UpdatePetInfoUsingPut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BootcampProject/src/main/java/Utilities/connectDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BootcampProject/src/main/java/Utilities/connectDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BootcampProjectNew/src/main/java/PageLib/AmazonProductDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BootcampProjectNew/src/main/java/PageLib/AmazonProductDetailsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BootcampProjectNew/src/main/java/Utilities/ReadAndWriteMongoDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BootcampProjectNew/src/main/java/Utilities/ReadAndWriteMongoDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuikrAutomation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../QuikrAutomation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RefactorCalendarCode/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/builders/CategoryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/builders/CategoryBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/builders/CreatePetRequestBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/builders/CreatePetRequestBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/builders/TagsBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/builders/TagsBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/request/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/request/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/request/CreatePetRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/request/CreatePetRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/request/Tags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/request/Tags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/response/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/response/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/response/CreatePetResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/response/CreatePetResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/response/Tags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/response/Tags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/RequestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/RequestHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/utilities/ResourceHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/ResourceHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/ResponseHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/ResponseHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/api/testing/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/api/testing/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/api/testing/EnhancingGetPetInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/api/testing/EnhancingGetPetInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/api/testing/GetPetInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/api/testing/GetPetInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/api/testing/PostRequestAndGetValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/api/testing/PostRequestAndGetValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/api/testing/PostRequestAndResponseValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/api/testing/PostRequestAndResponseValidation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/api/testing/PostRequestWithRequestResponseValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/api/testing/PostRequestWithRequestResponseValidation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utilities/ResourceHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/ResourceHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/testing/PostRequestWithRequestResponseValidation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/testing/PostRequestWithRequestResponseValidation.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -53,18 +44,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
               <caret line="31" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/api/testing/GetPetInformation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,6 +104,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/entities/response/Tags.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -327,7 +315,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551786052621" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551795546729" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -484,9 +472,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="804" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -495,12 +482,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.13623595" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.56179774" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28511235" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.108146064" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3497191" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286517" />
@@ -608,13 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entities/response/Tags.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -732,6 +712,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entities/response/Tags.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
